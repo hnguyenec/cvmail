@@ -1,0 +1,19 @@
+<!-- <div layout="column"> -->
+<md-toolbar layout="row" layout-align="space-between center" class="md-whiteframe-8dp main-toolbar">
+    <div class="md-toolbar-tools">
+        <md-button ng-if="shell.$state.includes('user') || shell.$state.includes('agent')" class="navigation-button" ng-click="shell.toggleSidenav()" hide-gt-sm="" aria-label="Toggle Side Menu">
+                <md-icon class="material-icons navigation-icon">menu</md-icon>
+        </md-button>
+        <span>
+            <a ui-sref="home.joblist({firmId: shell.firm.firmId})" aria-label="firm-logo">
+                <img ng-if="shell.firm.logo.url" data-ng-src="{{shell.firm.logo.url}}" class="firm-logo" alt="">
+                <span ng-if="!shell.firm.logo.url" class="brand-title" ng-bind="shell.firm.title"></span>
+            </a>
+        </span>
+        <span flex="">    
+        <data-top-menu menu-collection="shell.menuCollection" go-state="shell.goToState(state, params)" get-class="shell.getClass(index)" layout="row" layout-align="end center">
+        </data-top-menu>
+    </span></div>    
+</md-toolbar>
+<!-- <ui-breadcrumbs displayname-property="data.displayName" abstract-proxy-property="data.proxy" template-url="vendors/uiBreadcrumbs/uiBreadcrumbs.tpl.html"></ui-breadcrumbs>
+</div> -->

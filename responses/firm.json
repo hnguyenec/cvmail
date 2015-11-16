@@ -1,0 +1,260 @@
+[
+  {
+    "firmId": "69",
+    "firmName": "Anglican Retirement Villages",
+    "portalName": "ARV",
+    "shortName": "ARV",
+    "logo": {
+      "url": "https://local.cvmailfsr/arv/branding/img/arv-logo.gif"
+    },
+    "staticText": {
+      "home": {
+        "joblist": "Work at ARV is more than a job. It is part of our vision of 'reaching out, enriching lives and sharing the love of Jesus' - our staff enjoy knowing that they make a positive difference to the lives of people. We don't take this for granted and work to ensure that employees have fair terms of employment, training and career opportunities while we care for people. To find out more, see the other sections of our jobs website. \n Please search our current opportunities below (hold down the CTRL key to select multiple options) or set up a job alert so that we notify you once an opportunity that matches your interest becomes available.\n\n Click the Reference number to apply for a job."
+      },
+      "user": {
+        "menu": "<h3>Register and Start Applying Now!</h3>\n\n This Anglican Retirement Villages job board is powered by cvMail. If this is the first time you have used a cvMail powered site, you will need to register. Otherwise simply log in with your existing cvMail username and password. If you have forgotten your username you can use the 'Forgotten Password' link below.\n\nOnce registered, you can start applying immediately. Applying is easy, and your personal information is stored for each application you make.\n\nYou will also get access to great features such as Job Alerts and Job Forwarding. Job Alerts allow you to be notified when jobs matching your needs become available. Job Forwarding allows you to share job information with friends."
+      }
+    },
+    "jobs": {
+      "group_types": [
+        {
+          "id": "11",
+          "name": "Position Type",
+          "selected": ""
+        },
+        {
+          "id": "38",
+          "name": "Employment Type",
+          "selected": ""
+        },
+        {
+          "id": "46",
+          "name": "Area",
+          "selected": ""
+        }
+      ],
+      "groups": {
+        "11": [
+          {
+            "id": "4501",
+            "name": "Accounting"
+          },
+          {
+            "id": "4502",
+            "name": "Administration"
+          },
+          {
+            "id": "4503",
+            "name": "Building"
+          },
+          {
+            "id": "4504",
+            "name": "Care Manager"
+          },
+          {
+            "id": "4505",
+            "name": "Carer-Community based"
+          },
+          {
+            "id": "4506",
+            "name": "Carer-Facility based"
+          },
+          {
+            "id": "4507",
+            "name": "Community Co-ordinator (for Carers)"
+          },
+          {
+            "id": "4508",
+            "name": "Diversional Therapist (DT)"
+          },
+          {
+            "id": "4509",
+            "name": "Enrolled Nurse"
+          },
+          {
+            "id": "6212",
+            "name": "Exercise Physiologist"
+          }
+        ],
+        "38": [
+          {
+            "id": "4545",
+            "name": "Casual"
+          },
+          {
+            "id": "4542",
+            "name": "Full Time"
+          },
+          {
+            "id": "4544",
+            "name": "Graduate"
+          },
+          {
+            "id": "4543",
+            "name": "Part Time"
+          },
+          {
+            "id": "4546",
+            "name": "Volunteer"
+          }
+        ],
+        "46": [
+          {
+            "id": "4546",
+            "name": "Blue Mountains"
+          },
+          {
+            "id": "4557",
+            "name": "Eurobodalla"
+          },
+          {
+            "id": "4547",
+            "name": "Hills / Norwest"
+          },
+          {
+            "id": "4549",
+            "name": "Inner City / East"
+          },
+          {
+            "id": "4551",
+            "name": "Inner West"
+          },
+          {
+            "id": "4548",
+            "name": "North Shore / Beaches"
+          },
+          {
+            "id": "4552",
+            "name": "Parramatta / Penrith"
+          },
+          {
+            "id": "4556",
+            "name": "Shoalhaven"
+          },
+          {
+            "id": "4550",
+            "name": "South Eastern Sydney"
+          },
+          {
+            "id": "4553",
+            "name": "South West"
+          },
+          {
+            "id": "4554",
+            "name": "Southern Highlands"
+          },
+          {
+            "id": "4555",
+            "name": "Wollongong / Illawarra"
+          }
+        ]
+      },
+      "joblist": {
+        "COLUMNS": [
+          {
+            "NAME": "INTERNET_REFERENCE_NO",
+            "ALIAS": "Reference No",
+            "TYPE": "string"
+          },
+          {
+            "NAME": "INTERNET_TITLE",
+            "ALIAS": "Job Title",
+            "TYPE": "string"
+          },
+          {
+            "NAME": "OFFICELOCATION",
+            "ALIAS": "Job Location",
+            "TYPE": "string"
+          },
+          {
+            "NAME": "POSITION_TYPE",
+            "ALIAS": "Employment Type",
+            "TYPE": "string"
+          },
+          {
+            "NAME": "JOB_CREATION_DATE",
+            "ALIAS": "Creattion Date",
+            "TYPE": "date"
+          },
+          {
+            "NAME": "INTERNET_CLOSE_DATE",
+            "ALIAS": "Close Date",
+            "TYPE": "date"
+          },
+          {
+            "NAME": "NOW_OPEN",
+            "ALIAS": "Status",
+            "TYPE": "string"
+          }
+        ],
+        "IMPORTANT_COLUMNS": [
+          {
+            "NAME": "INTERNET_REFERENCE_NO",
+            "ALIAS": "Reference No",
+            "TYPE": "string"
+          },
+          {
+            "NAME": "INTERNET_TITLE",
+            "ALIAS": "Job Title",
+            "TYPE": "string"
+          },
+          {
+            "NAME": "NOW_OPEN",
+            "ALIAS": "Status",
+            "TYPE": "string"
+          }
+        ],
+        "DATA": [
+          {
+            "ID": "2311",
+            "DESCRIPTION": "<P><SPAN style=\"mso-bidi-font-family: Arial\"><STRONG><EM>Job Purpose</EM></STRONG></SPAN></P>  <P><SPAN style=\"mso-bidi-font-family: Arial\"><FONT size=2><FONT face=Verdana>To provide a full secretarial service to the SHE Group within the CDR & Commercial Insurance Department and further to ensure the maintenance of the departments filing system so that documents are up to date and can be easily retrieved.<O:P></O:P></FONT></FONT></SPAN></P>  <P><SPAN style=\"mso-bidi-font-family: Arial\"><FONT size=2><FONT face=Verdana>The jobholder will report to Paul Bratt and will also support the work of a number of fee-earners. In addition they must ensure that the holiday co-ordinator is aware of any leave so that cover can be provided. The work is litigious, but also includes advising corporate clients on SHE agreements.!<O:P></O:P></FONT></FONT></SPAN></P>  <P><SPAN style=\"mso-bidi-font-family: Arial\"><FONT size=2><FONT face=Verdana>DIMENSIONS <O:P></O:P></FONT></FONT></SPAN></P>  <P><FONT size=2><FONT face=Verdana><ST1:CITY><ST1:PLACE><SPAN style=\"mso-bidi-font-family: Arial\">Manchester</SPAN></ST1:PLACE></ST1:CITY><SPAN style=\"mso-bidi-font-family: Arial\"> Office - circa 240 employees</SPAN></FONT></FONT></P>",
+            "JOB_CREATION_DATE": "October, 31 2014 01:29:13",
+            "INTERNET_REFERENCE_NO": "69023110BAU",
+            "INTERNET_TITLE": "roltest01",
+            "OFFICELOCATION": "Baulkham Hills",
+            "INTERNET_HIRING_MANAGE": "",
+            "INTERNET_OPEN_DATE": "October, 29 2014 13:00:00",
+            "INTERNET_CLOSE_DATE": "November, 29 2016 13:00:00",
+            "NOW_OPEN": "Open",
+            "POSITION_TYPE": "Full Time - Permanent",
+            "ISPROCESS": "No",
+            "INTERNET_ADV_TEXT": "something here",
+            "JOB_TIMEZONE": 8,
+            "GROUP_IDS": {
+              "8": [
+                "4470"
+              ],
+              "11": [
+                "4501"
+              ]
+            }
+          },
+          {
+            "ID": "2382",
+            "DESCRIPTION": "<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Care Staff - HomeCare</strong></span></p>  <p><strong>&bull; Permanent Part Time role available</strong><br /><strong>&bull; 10hrs per fortnight minimum with a view to increase</strong><br /><strong>&bull; Servicing the Nepean/Hawkesbury areas</strong><br /><strong>&bull; Make a genuine difference</strong><br /> <br /><span style=\"text-decoration: underline;\"><strong>About ARV:</strong></span></p>  <p>ARV is an innovative, Christian, not-for-profit organisation that operates within the growing aged care industry. Employing more than 2,400 people across 200 job types, employees enjoy dynamic career opportunities, ongoing professional development, supportive leadership as well as remuneration and benefits that are highly competitive within the industry.</p>  <p><span style=\"text-decoration: underline;\"><strong>About the roles:</strong></span></p>  <p>Join our HomeCare team of professionals and make a genuine difference in the lives of older people, supporting and assisting them to remain in their homes. Applicants must have the flexibility to be able to work various days and times and on occasions, be available at short notice.</p>  <p><strong>Key responsibilities (not limited to):</strong><br />&bull; Ensure optimal physical comfort of clients<br />&bull; Providing flexible, individualised care to older people with varied needs<br />&bull; Personal care (showering/toileting)<br />&bull; Meal preparation and serving<br />&bull; Light housekeeping<br />&bull; Transport<br />&bull; Respite and social support<br />&bull; Interact with clients in a cheerful and empathetic manner<br />&bull; Ensure care standards are upheld by following procedures and care plans</p>  <p><strong><span style=\"text-decoration: underline;\">Skills, knowledge and experience needed:</span></strong></p>  <p><strong>Essential:</strong> <br />&bull; Certificate III in Aged Care or Home &amp; Community Care<br />&bull; A passion for caring for others<br />&bull; Own motor vehicle with comprehensive insurance <br />&bull; Current driver&rsquo;s licence <br />&bull; Excellent communication skills<br />&bull; Ability to work well autonomously <br />&bull; Adherence to ARV Policies and Procedures (with WHS awareness)<br />&bull; Dedicated to providing exceptional care <br />&bull; Be reliable and flexible<br />&bull; Be available at least 2 days per week, with preference for 3 or more<br />&bull; A commitment to the Christian values of ARV</p>  <p><strong>Desirable:</strong><br />&bull; Previous Aged Care experience</p>  <p>Carers at ARV are rewarded with above award rates of pay, and a comprehensive orientation program on arrival with access to ongoing education and training opportunities to ensure that our residents receive outstanding care. We are seeking candidates with a genuine concern for older people to join a team passionate about caring for people.</p>  <p><strong>ARV - Reaching out, enriching lives, sharing the love of Jesus.</strong></p>",
+            "JOB_CREATION_DATE": "September, 01 2015 01:51:43",
+            "INTERNET_REFERENCE_NO": "69023820BAU",
+            "INTERNET_TITLE": "roltest02",
+            "OFFICELOCATION": "Baulkham Hills",
+            "INTERNET_HIRING_MANAGE": "",
+            "INTERNET_OPEN_DATE": "August, 31 2015 14:00:00",
+            "INTERNET_CLOSE_DATE": "September, 30 2020 14:00:00",
+            "NOW_OPEN": "Open",
+            "POSITION_TYPE": "Full Time - Permanent",
+            "ISPROCESS": "No",
+            "INTERNET_ADV_TEXT": "something else here",
+            "JOB_TIMEZONE": 8,
+            "GROUP_IDS": {
+              "38": [
+                "4542"
+              ],
+              "46": [
+                "4547"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+]
