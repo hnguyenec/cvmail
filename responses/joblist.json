@@ -1,0 +1,132 @@
+{
+  "group_types": [
+    {
+      "id": "11",
+      "name": "Position Type"
+    },
+    {
+      "id": "38",
+      "name": "Employment Type"
+    },
+    {
+      "id": "46",
+      "name": "Area"
+    }
+  ],
+  "groups": {
+    "11": [
+      {
+        "id": "4501",
+        "name": "Accounting"
+      },
+      {
+        "id": "4502",
+        "name": "Administration"
+      },
+      {
+        "id": "4503",
+        "name": "Building"
+      },
+      {
+        "id": "4504",
+        "name": "Care Manager"
+      },
+      {
+        "id": "4505",
+        "name": "Carer-Community based"
+      },
+      {
+        "id": "4506",
+        "name": "Carer-Facility based"
+      },
+      {
+        "id": "4507",
+        "name": "Community Co-ordinator (for Carers)"
+      },
+      {
+        "id": "4508",
+        "name": "Diversional Therapist (DT)"
+      },
+      {
+        "id": "4509",
+        "name": "Enrolled Nurse"
+      },
+      {
+        "id": "6212",
+        "name": "Exercise Physiologist"
+      }
+    ],
+    "38": [
+      {
+        "id": "4545",
+        "name": "Casual"
+      },
+      {
+        "id": "4542",
+        "name": "Full Time"
+      },
+      {
+        "id": "4544",
+        "name": "Graduate"
+      },
+      {
+        "id": "4543",
+        "name": "Part Time"
+      },
+      {
+        "id": "4546",
+        "name": "Volunteer"
+      }
+    ],
+    "46": [
+      {
+        "id": "4548",
+        "name": "Blue Mountains"
+      },
+      {
+        "id": "4557",
+        "name": "Eurobodalla"
+      },
+      {
+        "id": "4547",
+        "name": "Hills / Norwest"
+      },
+      {
+        "id": "4549",
+        "name": "Inner City / East"
+      },
+      {
+        "id": "4551",
+        "name": "Inner West"
+      },
+      {
+        "id": "4548",
+        "name": "North Shore / Beaches"
+      },
+      {
+        "id": "4552",
+        "name": "Parramatta / Penrith"
+      },
+      {
+        "id": "4556",
+        "name": "Shoalhaven"
+      },
+      {
+        "id": "4550",
+        "name": "South Eastern Sydney"
+      },
+      {
+        "id": "4553",
+        "name": "South West"
+      },
+      {
+        "id": "4554",
+        "name": "Southern Highlands"
+      },
+      {
+        "id": "4555",
+        "name": "Wollongong / Illawarra"
+      }
+    ]
+  }
+}
