@@ -1,4 +1,4 @@
-<!-- <div layout="column"> -->
+<div layout="column">
 <md-toolbar layout="row" layout-align="space-between center" class="md-whiteframe-8dp main-toolbar">
     <div class="md-toolbar-tools">
         <md-button ng-if="rL.$state.includes('user') || rL.$state.includes('agent')" class="navigation-button" ng-click="rL.toggleSidenav()" hide-gt-sm="" aria-label="Toggle Side Menu">
@@ -15,5 +15,7 @@
         </data-top-menu>
     </span></div>    
 </md-toolbar>
-<!-- <ui-breadcrumbs displayname-property="data.displayName" abstract-proxy-property="data.proxy" template-url="vendors/uiBreadcrumbs/uiBreadcrumbs.tpl.html"></ui-breadcrumbs>
-</div> -->
+<span ui-view="wizard-topnav" class="second-top-nav"></span>
+</div>
+<!-- <ui-breadcrumbs displayname-property="data.displayName" abstract-proxy-property="data.proxy" template-url="vendors/uiBreadcrumbs/uiBreadcrumbs.tpl.html"></ui-breadcrumbs-->
+
