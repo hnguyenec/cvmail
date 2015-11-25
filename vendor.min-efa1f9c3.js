@@ -3243,7 +3243,7 @@ return r.defaultFontSet=e?e:"",this},defaultIconSize:function(e){return r.defaul
         label: '@'
       },
       templateUrl: function(elem, attrs) {
-        return attrs.templateUrl || 'ng-mfb-button-default.tpl.html';
+        return attrs.templateUrl || 'ng-mfb-button-md.tpl.html';
       }
     };
   }]);
