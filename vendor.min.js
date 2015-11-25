@@ -3055,8 +3055,8 @@ return r.defaultFontSet=e?e:"",this},defaultIconSize:function(e){return r.defaul
       '  <li class="mfb-component__wrap">' +
       '    <a ng-click="clicked()" ng-mouseenter="hovered()" ng-mouseleave="hovered()"' +
       '       ng-attr-data-mfb-label="{{label}}" class="mfb-component__button--main">' +
-      '     <i class="material-icons-alt mfb-component__main-icon--resting {{resting}}">{{resting}}</i>' +
-      '     <i class="material-icons-alt mfb-component__main-icon--active {{active}}">{{active}}</i>' +
+      '     <i class="mfb-component__main-icon--resting {{resting}}"></i>' +
+      '     <i class="mfb-component__main-icon--active {{active}}"></i>' +
       '    </a>' +
       '    <ul class="mfb-component__list" ng-transclude>' +
       '    </ul>' +
@@ -3087,7 +3087,7 @@ return r.defaultFontSet=e?e:"",this},defaultIconSize:function(e){return r.defaul
     $templateCache.put('ng-mfb-button-default.tpl.html',
       '<li>' +
       '  <a data-mfb-label="{{label}}" class="mfb-component__button--child">' +
-      '    <i class="material-icons-alt mfb-component__child-icon {{icon}}"> {{icon}}' +
+      '    <i class="mfb-component__child-icon {{icon}}">' +
       '    </i>' +
       '  </a>' +
       '</li>'
@@ -3135,7 +3135,7 @@ return r.defaultFontSet=e?e:"",this},defaultIconSize:function(e){return r.defaul
         togglingMethod: '@'
       },
       templateUrl: function(elem, attrs) {
-        return attrs.templateUrl || 'ng-mfb-menu-default.tpl.html';
+        return attrs.templateUrl || 'ng-mfb-menu-md.tpl.html';
       },
       controller: ['$scope', '$attrs', function($scope, $attrs) {
         var openState = 'open',
